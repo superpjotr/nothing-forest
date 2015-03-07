@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+#game-canvas-wrap {
+    position: fixed;
+
+    left: 50%;
+    width: 450px;
+    margin-left: -225px;
+
+    top: 50%;
+    height: 450px;
+    margin-top: -225px;
+}
